@@ -97,11 +97,12 @@ h1 {
     flex-shrink: 0;
     outline: none;
     margin-left: .5rem;
+    display: flex;
 }
 
-/* .todo__btn-add img {
-    transform: rotate(45deg)
-} */
+.todo__btn-add img {
+    margin: auto;
+}
 
 .footer {
     margin-top: 1rem;
